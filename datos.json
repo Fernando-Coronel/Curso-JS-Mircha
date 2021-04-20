@@ -1,0 +1,11 @@
+{
+    "cadena": "Fercho",
+    "numero": "28",
+    "booleano": "true",
+    "arreglo": [1,2,3,4,5],
+    "objeto": {
+      "facebook": "Fercho20",
+      "email": "Ferchovas20@gmail.com"
+    },
+    "nulo":null
+  }
